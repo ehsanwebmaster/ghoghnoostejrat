@@ -3282,7 +3282,7 @@ img {
   font-size: 18px;
   font-weight: 600;
   margin-bottom: 1px;
-  font-family: "Poppins", sans-serif;
+  font-family: iranyekanbold;
 }
 
 .testimonial-block .inner-box:hover .quote-icon {
@@ -3532,7 +3532,7 @@ img {
 .main-footer .footer-title h2:after {
   position: absolute;
   content: "";
-  left: 0px;
+  right: 0px;
   bottom: 0px;
   width: 35px;
   height: 4px;
@@ -3626,7 +3626,7 @@ img {
 .main-footer .links li a:after {
   position: absolute;
   content: "";
-  left: 0px;
+  right: 0px;
   bottom: 0px;
   width: 20px;
   height: 2px;
@@ -6128,7 +6128,7 @@ img {
   -o-transition: all 300ms ease;
   -moz-transition: all 300ms ease;
   transition: all 300ms ease;
-  font-family: "Poppins", sans-serif;
+  font-family: iranyekanbold;
 }
 
 .project-block-four .inner-box .lower-content .read-more .icon {
@@ -6162,6 +6162,7 @@ img {
   position: relative;
   width: 35px;
   height: 35px;
+  float: left;
   margin-right: 14px;
   display: inline-block;
   background: url(../images/icons/arrow-left.png) no-repeat;
