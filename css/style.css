@@ -6377,8 +6377,8 @@ img {
 .page-breadcrumb li {
   position: relative;
   display: inline-block;
-  margin-right: 10px;
-  padding-right: 20px;
+  margin-left: 10px;
+  padding-left: 20px;
   color: #f55b14;
   font-size: 16px;
   font-weight: 400;
@@ -6386,8 +6386,8 @@ img {
 
 .page-breadcrumb li:after {
   position: absolute;
-  content: "\f1a6";
-  right: -4px;
+  content: "\f197";
+  left: -4px;
   top: 0px;
   color: #f55b14;
   font-family: "Flaticon";
@@ -6398,8 +6398,8 @@ img {
 }
 
 .page-breadcrumb li:last-child {
-  padding-right: 0px;
-  margin-right: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
 }
 
 .page-breadcrumb li a {
